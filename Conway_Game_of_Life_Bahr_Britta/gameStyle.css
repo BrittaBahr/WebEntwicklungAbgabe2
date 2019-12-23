@@ -1,0 +1,20 @@
+.jumbotron {
+    background-image: url(https://cdn-images-1.medium.com/max/1080/1*SmnlicPKHRO-_7a-9Xma-w.png);
+    background-blend-mode: soft-light;
+    color: blue;
+    font-size: medium;
+    font-weight: bolder;
+    margin-bottom: 5%;
+}
+.btn {
+    color: black;
+    background-image: linear-gradient(to right, steelblue, skyblue , aqua);
+    width: 15%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.input-group{
+    color: black;
+    background-image: linear-gradient(to right, steelblue, skyblue , aqua);
+    width: 50%;
+}
